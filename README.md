@@ -3,6 +3,6 @@ A modern and responsive coffee shop website for "Cozy Cup". Includes homepage, m
 Technologies Used
 HTML5 – Structure and semantic markup
 CSS3 – Layout, styling, and responsive design (including Flexbox/Grid)
-JavaScript (Vanilla) – Interactivity and basic functionality
+JavaScript  – Interactivity and basic functionality
 Font Awesome – Icons
 
